@@ -4,7 +4,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+🔗 [View Portfolio Live](https://harshitdhingra.vercel.app/)
 
 ## 🛠️ Tech Stack
 
@@ -26,7 +26,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 ### 1. Clone the Repo
 
 ```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
+git clone [https://github.com/codingmastr/harshit-byte1-Portfolio.git]
 cd your-repo-name
 ````
 
@@ -55,5 +55,5 @@ Watch the full build on YouTube:
 
 ## 🌟 Credits
 
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
+This project was created with ❤️ by [Harshit Dhingra](https://harshitdhingra.vercel.app/).
 If you like it, feel free to ⭐ this repository and share!
